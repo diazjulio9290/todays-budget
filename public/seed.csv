@@ -1,0 +1,39 @@
+Category,Memo,Amount,Amount display,Currency code,Repeats,Start date,End date
+Mobility,Car payment,-850,-$850.00,USD,Monthly,6/29/2026,open end
+Income,Paycheck,3000,"$3,000.00",USD,Every 2 weeks,7/29/2026,open end
+Eating Out,Saturday meal,-110,-$110.00,USD,Weekly,7/29/2026,open end
+Loan,Personal Loan,-1025,"-$1,025.00",USD,Monthly,7/29/2026,open end
+Tech,Cloud AI,-100,-$100.00,USD,Monthly,7/29/2026,open end
+Tech,Chat AI,-100,-$100.00,USD,Monthly,7/29/2026,open end
+Personal,Family,-360,-$360.00,USD,Monthly,7/29/2026,open end
+Health,Gym,-89.97999999999999,-$89.98,USD,Monthly,7/29/2026,open end
+Home,Cleaning,-225,-$225.00,USD,Monthly,7/29/2026,open end
+Fun,Stream A,-12.99,-$12.99,USD,Monthly,7/29/2026,open end
+Fun,Stream B,-13.99,-$13.99,USD,Monthly,7/29/2026,open end
+Tech,Device care,-4.99,-$4.99,USD,Monthly,7/29/2026,open end
+Fun,Anime stream,-9.99,-$9.99,USD,Monthly,7/29/2026,open end
+Fun,Public radio,-5,-$5.00,USD,Monthly,7/29/2026,open end
+Fun,Music AI,-10,-$10.00,USD,Monthly,7/29/2026,open end
+Loan,Credit bill,-41.95,-$41.95,USD,Monthly,7/29/2026,open end
+Fun,Game pass,-9.99,-$9.99,USD,Monthly,7/29/2026,open end
+Fun,Stream C,-26.99,-$26.99,USD,Monthly,7/29/2026,open end
+Tech,Office suite,-13.13,-$13.13,USD,Monthly,7/29/2026,open end
+Fun,Family phone,-22.55,-$22.55,USD,Monthly,7/29/2026,open end
+Fun,Stream D,-44.989999999999981,-$44.99,USD,Monthly,7/29/2026,open end
+Tech,Cloud storage,-19.99,-$19.99,USD,Monthly,7/29/2026,open end
+Fun,Video premium,-26.99,-$26.99,USD,Monthly,7/29/2026,open end
+Eating Out,Thursday meal,-55,-$55.00,USD,Weekly,7/29/2026,open end
+Tech,Photo storage,-9.99,-$9.99,USD,Monthly,7/29/2026,open end
+Bills,Phone,-65.94,-$65.94,USD,Monthly,7/29/2026,open end
+Loan,Education loan,-554.8,-$554.80,USD,Monthly,7/29/2026,open end
+Bills,Internet,-131.96,-$131.96,USD,Monthly,7/29/2026,open end
+Eating Out,Coffee shop,-10.81,-$10.81,USD,,7/30/2026,7/30/2026
+Eating Out,Breakfast ,-30,-$30.00,USD,,8/1/2026,8/1/2026
+Groceries,Market,-20.36,-$20.36,USD,,8/4/2026,8/4/2026
+Health,Medication,-300,-$300.00,USD,Monthly,8/5/2026,open end
+Fun,Club,-25,-$25.00,USD,Monthly,8/8/2026,open end
+Eating Out,Coffee,-6,-$6.00,USD,,8/8/2026,8/8/2026
+Mobility,Car wash,-35,-$35.00,USD,,8/9/2026,8/9/2026
+Eating Out,Lunch,-21.95,-$21.95,USD,,8/11/2026,8/11/2026
+Eating Out,Dinner,-48.5,-$48.50,USD,,8/12/2026,8/12/2026
+Personal,Barber,-42,-$42.00,USD,,8/15/2026,8/15/2026
